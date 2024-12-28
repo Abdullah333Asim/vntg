@@ -222,7 +222,7 @@ h3 {
 
     height: 500px;
     width:100%;
-    background-image: url(../website/images/mainpage.jpg);
+    background-image: url("https://github.com/Abdullah333Asim/vntg/blob/main/website/images/mainpage.jpg");
     opacity:0.6;
     background-size: cover;
     background-position: center;
