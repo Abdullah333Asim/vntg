@@ -222,7 +222,7 @@ h3 {
 
     height: 500px;
     width:100%;
-    background-image: url('/images/mainpage.jpg');
+    background-image: url('../images/mainpage.jpg');
     opacity:0.6;
     background-size: cover;
     background-position: center;
