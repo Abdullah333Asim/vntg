@@ -10,7 +10,7 @@ body {
     box-sizing: border-box;
 }
 
-img {
+.img {
     max-width: 100%;
     height: auto;
 }
@@ -222,7 +222,7 @@ h3 {
 
     height: 500px;
     width:100%;
-    background-image: url('../images/mainpage.jpg');
+    background-image: url('website/images/mainpage.jpg');
     opacity:0.6;
     background-size: cover;
     background-position: center;
